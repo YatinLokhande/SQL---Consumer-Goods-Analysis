@@ -79,6 +79,12 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 ![18](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/82a5ac49-9697-4163-8112-f8c24c41e738)
 
 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatinlokhande/)
+
+
 ### About Codebasics Data Analytics Bootcamp
 
 This project is part of the Data Analytics Bootcamp curriculum at Codebasics. The bootcamp equips participants with essential skills and techniques in data analytics, covering various domains and real-world applications.
