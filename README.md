@@ -40,6 +40,9 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 1. **SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL_QUERIES.pdf](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/files/15162270/SQL_QUERIES.pdf)
 2. **PPT:**  [SQL PROJECT.pptx](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/files/15162296/SQL.PROJECT.pptx)
 
+### Project
+
+
 
 ### About Codebasics Data Analytics Bootcamp
 
